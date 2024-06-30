@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nadhakm
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Computer Science Engineering
+- 🌱 I’m studying for Computer Science Engineering
 - 💞️ I’m currently exploring various domains
 
 <!---
